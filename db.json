@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Valeria",
+      "email": "valeriatobon200614@gmail.com",
+      "password": "123456val.",
+      "role": "admin",
+      "phone": "3003806462",
+      "enrollNumber": "98765432100000",
+      "dateOfAdmission": "01-Jan-2020"
+    },
+    {
+      "id": "77ca",
+      "email": "valeriatobon200614@gmail.com",
+      "password": "12345Vale",
+      "role": "visitante"
+    },
+    {
+      "id": "b267",
+      "email": "valeriatobon2006@gmail.com",
+      "password": "123456Val",
+      "role": "bibliotecario"
+    }
+  ],
+  "books": [
+    {
+      "id": "426b",
+      "title": "señor de los anillos",
+      "author": "J.R.R Tolkien",
+      "available": false
+    },
+    {
+      "id": "f5a3",
+      "title": "1984",
+      "author": "George Orwell",
+      "available": false
+    },
+    {
+      "id": "c7d2",
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "available": false
+    }
+  ]
+}
